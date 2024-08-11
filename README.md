@@ -1,0 +1,1 @@
+# nautlius-script-resize-images
