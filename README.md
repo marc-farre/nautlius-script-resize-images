@@ -22,7 +22,7 @@ To use this script with Nautilus, follow these steps:
 2. Copy the script to the Nautilus scripts directory:
    ```
    mkdir -p ~/.local/share/nautilus/scripts
-   wget [https://raw.githubusercontent.com/yourusername/your-repo/main](https://raw.githubusercontent.com/marc-farre/nautlius-script-resize-images/main)/Resize_Images.sh -O ~/.local/share/nautilus/scripts/Resize_Images.sh
+   wget https://raw.githubusercontent.com/marc-farre/nautlius-script-resize-images/main/Resize_Images.sh -O ~/.local/share/nautilus/scripts/Resize_Images.sh
    ```
 
 3. Make the script executable:
